@@ -10,7 +10,7 @@ Welcome to the NITK Club Recruitment Portal! This platform is designed to stream
 
 ## Demo Video
 
-[Demo Video](https://example.com/demo-video) to see the portal in action
+[Demo Video](https://drive.google.com/file/d/1yP2kMNR4xELllqIJeK6ScAp8ME3v0_lI/view?usp=sharing) to see the portal in action
 
 ## Installation
 
